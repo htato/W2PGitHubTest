@@ -23,7 +23,7 @@
             <TodayDayStyle BackColor="#CCCCCC" />
         </asp:Calendar>
         <br />
-        <asp:Label ID="Label1" runat="server" Text="Show or hide image:"></asp:Label>
+        <asp:Label ID="Label1" runat="server" Text="Click to show or hide image:"></asp:Label>
 &nbsp;<asp:Button ID="Button1" runat="server" Text="Show" OnClick="Button1_Click" />
         <br />
         <br />
