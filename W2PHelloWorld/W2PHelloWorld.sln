@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2PHelloWorld", "W2PHelloWorld\W2PHelloWorld.csproj", "{5146E4EC-4576-470E-B6C1-5414699A2E93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2PHelloWorld2", "W2PHelloWorld2\W2PHelloWorld2.csproj", "{84BA2630-1D88-4564-88F5-6688AA3195E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5146E4EC-4576-470E-B6C1-5414699A2E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5146E4EC-4576-470E-B6C1-5414699A2E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5146E4EC-4576-470E-B6C1-5414699A2E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BA2630-1D88-4564-88F5-6688AA3195E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BA2630-1D88-4564-88F5-6688AA3195E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BA2630-1D88-4564-88F5-6688AA3195E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BA2630-1D88-4564-88F5-6688AA3195E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
