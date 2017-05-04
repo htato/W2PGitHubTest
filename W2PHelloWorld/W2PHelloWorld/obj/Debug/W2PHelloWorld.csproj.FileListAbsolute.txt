@@ -1,0 +1,6 @@
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\bin\W2PHelloWorld.dll.config
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\bin\W2PHelloWorld.dll
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\bin\W2PHelloWorld.pdb
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\obj\Debug\W2PHelloWorld.csprojResolveAssemblyReference.cache
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\obj\Debug\W2PHelloWorld.dll
+C:\3cdev\repos\W2P\W2PHelloWorld\W2PHelloWorld\obj\Debug\W2PHelloWorld.pdb

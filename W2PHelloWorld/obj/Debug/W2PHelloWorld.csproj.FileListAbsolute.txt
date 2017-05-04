@@ -1,0 +1,5 @@
+c:\Users\pt3cheta\documents\visual studio 2013\Projects\W2PHelloWorld\bin\W2PHelloWorld.dll.config
+c:\Users\pt3cheta\documents\visual studio 2013\Projects\W2PHelloWorld\bin\W2PHelloWorld.dll
+c:\Users\pt3cheta\documents\visual studio 2013\Projects\W2PHelloWorld\bin\W2PHelloWorld.pdb
+c:\Users\pt3cheta\documents\visual studio 2013\Projects\W2PHelloWorld\obj\Debug\W2PHelloWorld.dll
+c:\Users\pt3cheta\documents\visual studio 2013\Projects\W2PHelloWorld\obj\Debug\W2PHelloWorld.pdb
